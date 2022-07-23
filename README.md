@@ -20,8 +20,3 @@ In multitasking computer operating systems, a daemon  is a computer program that
 ## Daemon (_His Dark Materials_):
 A daemon is a type of fictional being in the Philip Pullman fantasy trilogy His Dark Materials. Dæmons are the external physical manifestation of a person's "inner-self" that takes the form of an animal. Dæmons have human intelligence, are capable of human speech—regardless of the form they take—and usually behave as though they are independent of their humans.
 
-# Who is this repository for
-- Technoroyalists (ie [Techokings](https://www.theverge.com/2021/3/15/22331315/elon-musk-tesla-technoking-title-ceo) and the supporters of such governance)
-- Traditionalists (but not Luddites obviously)
-- [κυβ](https://en.wikipedia.org/wiki/Cybernetics#Etymology)ermenschen
-
